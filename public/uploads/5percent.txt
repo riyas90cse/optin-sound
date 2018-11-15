@@ -1,0 +1,9 @@
+l5k0n6kskxc81umvlopmxxtzt
+
+
+
+
+sudo chgrp -R www-data /var/www/html
+sudo find /var/www/html -type d -exec chmod g+rx {} +
+sudo find /var/www/html -type f -exec chmod g+r {} +
+

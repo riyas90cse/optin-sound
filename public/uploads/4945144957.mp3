@@ -1,0 +1,55 @@
+Aws\Result Object
+(
+    [data:Aws\Result:private] => Array
+        (
+            [AudioStream] => GuzzleHttp\Psr7\Stream Object
+                (
+                    [stream:GuzzleHttp\Psr7\Stream:private] => Resource id #88
+                    [size:GuzzleHttp\Psr7\Stream:private] => 
+                    [seekable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [readable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [writable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [uri:GuzzleHttp\Psr7\Stream:private] => php://temp
+                    [customMetadata:GuzzleHttp\Psr7\Stream:private] => Array
+                        (
+                        )
+
+                )
+
+            [ContentType] => audio/mpeg
+            [RequestCharacters] => 18
+            [@metadata] => Array
+                (
+                    [statusCode] => 200
+                    [effectiveUri] => https://polly.us-east-1.amazonaws.com/v1/speech
+                    [headers] => Array
+                        (
+                            [content-type] => audio/mpeg
+                            [date] => Thu, 26 Apr 2018 16:15:35 GMT
+                            [x-amzn-requestcharacters] => 18
+                            [x-amzn-requestid] => 0d64e923-496d-11e8-bc6d-e38f2054f6e8
+                            [transfer-encoding] => chunked
+                            [connection] => keep-alive
+                        )
+
+                    [transferStats] => Array
+                        (
+                            [http] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+<br />
+<b>Notice</b>:  Undefined variable: resultData in <b>/opt/lampp/htdocs/comfnet_wp/amazonpolly/index.php</b> on line <b>24</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: resultData in <b>/opt/lampp/htdocs/comfnet_wp/amazonpolly/index.php</b> on line <b>29</b><br />

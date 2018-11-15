@@ -1,0 +1,2 @@
+[16-Jan-2017 10:14:38 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/mylawyeradvice/public_html/sales/storage/framework/views/91888611bda0d6505b1fb8fb3bd72f76065b69b7.php on line 99
+[16-Jan-2017 10:16:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mylawyeradvice/public_html/sales/storage/framework/views/91888611bda0d6505b1fb8fb3bd72f76065b69b7.php on line 107

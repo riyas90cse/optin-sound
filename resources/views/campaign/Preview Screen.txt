@@ -1,0 +1,34 @@
+Preview Screen
+
+
+Create an iframe #previewOptinScreen
+Add Basic html in iframe.
+create a script and add dynamic script for the preview button action and add it to iframe.
+open iframe in full screen for preview fade in Full Screen.
+close button to destroy iframe.
+fadeout
+
+
+
+Add fonts in last dropdown
+
+Preview Button before create campaign 
+
+Fonts and Settings will load in preview screen.
+
+
+
+Font 
+
+
+
+
+//Splice vs slice
+
+var abc=["abc", "sharma","mit"],bce=["abc", "sharma","mitali"];
+var splice1=abc.splice(2);
+var slice1=abc.slice(1);
+alert(splice1);
+alert(slice1);
+alert(abc);
+//alert(bce);
